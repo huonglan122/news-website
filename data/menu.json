@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "id": "home",
+      "title": "Home",
+      "url": "https://dantri.com.vn/",
+      "type": "home"
+    },
+    {
+      "id": "latest",
+      "title": "Mới nhất",
+      "url": "https://dantri.com.vn/tin-moi-nhat.htm",
+      "type": "category"
+    },
+    {
+      "id": "the-gioi",
+      "title": "Thế giới",
+      "url": "https://dantri.com.vn/the-gioi.htm",
+      "type": "category",
+      "children": [
+        {
+          "id": "quan-su",
+          "title": "Quân sự",
+          "url": "https://dantri.com.vn/the-gioi/quan-su.htm"
+        },
+        {
+          "id": "phan-tich",
+          "title": "Phân tích - Bình luận",
+          "url": "https://dantri.com.vn/the-gioi/phan-tich-binh-luan.htm"
+        }
+      ]
+    }
+  ]
+}
